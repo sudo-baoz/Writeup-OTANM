@@ -185,7 +185,3 @@ PATO{FAN_ANH_DI}
 | 5 | IDOR hội thoại 3, ID MD5 | `PATO{NU_HOANG_PCAP_DI_SOP}` |
 | 6 | IDOR hội thoại 4, ID MD5 | `PATO{SIEU_CAP_LOLI_HUYNH_QUOC_THANG}` |
 | 7 | SQL injection đăng nhập tài khoản phụ | `PATO{FAN_ANH_DI}` |
-
-## Ghi chú
-
-Trong quá trình dò tìm mình đã đăng ký tài khoản thử nghiệm `codex_lab_20261003_1149`; tài khoản này có thể còn trong dữ liệu lab nếu môi trường không tự reset. Các bước khai thác ở trên không cần tài khoản thử nghiệm đó.
